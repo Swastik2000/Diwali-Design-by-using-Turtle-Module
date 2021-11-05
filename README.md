@@ -1,3 +1,3 @@
 # Rangoli-Design-by-using-Turtle-Module
 
-Repo for Code-A-Rangoli Submission
+Submission for the ISTE NITC Students' Chapter of "Code-A-Rangoli."
